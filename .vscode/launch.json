@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-StaticsApplication<statics>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "goo.statics.StaticsApplication",
+      "projectName": "statics",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
